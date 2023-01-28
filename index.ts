@@ -7,8 +7,8 @@ function sum(a: any, b: any) {
 
 console.log(sum(a, b));
 
-function multiply(a:any,b:any){
+function Multiply(a:any,b:any){
   return a*b;
 }
 
-console.log(multiply(a,b));
+console.log(Multiply(a,b));
