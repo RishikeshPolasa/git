@@ -1,4 +1,4 @@
-let a = 10;
+let a = 20;
 let b = 20;
 
 function sum(a: any, b: any) {
@@ -6,3 +6,9 @@ function sum(a: any, b: any) {
 }
 
 console.log(sum(a, b));
+
+function multiply(a: any, b: any) {
+  return a * b;
+}
+
+console.log(multiply(a, b));
